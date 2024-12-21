@@ -8,6 +8,7 @@ The "Multi-chain Token Rewards for Learning on Various Platforms" project aims t
 
 ## Contract Address:
 0xAeCb8120B7Be459D4CA64D1aD307B5eAeA0D4ed8
+![image](https://github.com/user-attachments/assets/4bbdc4d4-2136-4884-8021-6c032d305eb4)
 
 ### Example Address on Ethereum:
 `0x1234567890abcdef1234567890abcdef12345678`
